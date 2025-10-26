@@ -39,18 +39,16 @@ public class UISlideSpring : MonoBehaviour
 
     public void Show()
     {
-        if (isVisible) return; // ✅ already showing, skip
+        if (isVisible) return;
         isVisible = true;
-        Debug.Log("UISlideSpring Show called");
         if (animRoutine != null) StopCoroutine(animRoutine);
         animRoutine = StartCoroutine(Slide(hiddenPos, startPos));
     }
 
     public void Hide()
     {
-        if (!isVisible) return; // ✅ already hidden, skip
+        if (!isVisible) return;
         isVisible = false;
-        Debug.Log("UISlideSpring Hide called");
         if (animRoutine != null) StopCoroutine(animRoutine);
         animRoutine = StartCoroutine(Slide(startPos, hiddenPos));
     }
