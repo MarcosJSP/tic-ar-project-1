@@ -1889,6 +1889,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 500541276916c4564b603dd199042117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  contentPanel: {fileID: 1474402108}
+  titleText: {fileID: 935133303}
+  descriptionText: {fileID: 1577331595}
+  showDuration: 0.3
+  hideDuration: 0.15
+  popCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!225 &1522798989
 CanvasGroup:
   m_ObjectHideFlags: 0
