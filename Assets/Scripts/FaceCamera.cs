@@ -4,18 +4,23 @@ public class FaceCamera : MonoBehaviour
 {
     private Transform cameraTransform;
 
+    // How fast it rotates toward the camera
+    [SerializeField] private float rotationSpeed = 10f;
+
     void Start()
     {
         cameraTransform = Camera.main.transform; // get AR camera
     }
 
     void LateUpdate()
-    {
-        if (cameraTransform == null) return;
+{
+    if (cameraTransform == null) return;
 
-        // Make this object face the camera but stay upright
-        Vector3 lookDirection = transform.position - cameraTransform.position;
-        //lookDirection.y = 0; // optional: keep it level
-        transform.rotation = Quaternion.LookRotation(lookDirection);
-    }
+    Vector3 lookDirection = transform.position - cameraTransform.position;
+    // lookDirection.y = 0;
+
+    // Smoothly rotate toward camera
+    Quaternion targetRotation = Quaternion.LookRotation(lookDirection);
+    transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, Time.deltaTime * rotationSpeed);
+}
 }
