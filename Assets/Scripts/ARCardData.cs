@@ -6,7 +6,8 @@ public class ARCardData : MonoBehaviour
     public string title;
     [TextArea(3, 5)]
     public string description;
-    
+    public string youtubeURL;
+
     // Add any other data you want
     public Sprite cardImage;
 }

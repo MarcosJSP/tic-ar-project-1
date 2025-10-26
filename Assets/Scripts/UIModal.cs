@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using TMPro;
+using UnityEngine.UI;
 
 [RequireComponent(typeof(CanvasGroup))]
 public class UIModal : MonoBehaviour
@@ -11,26 +12,33 @@ public class UIModal : MonoBehaviour
     [SerializeField] private RectTransform contentPanel;
     [SerializeField] private TextMeshProUGUI titleText;
     [SerializeField] private TextMeshProUGUI descriptionText;
+    [SerializeField] private Button watchVideoButton; // Add this
     
     [Header("Animation Settings")]
     [SerializeField] private float showDuration = 0.3f;
-    [SerializeField] private float hideDuration = 0.15f; // Faster hide
+    [SerializeField] private float hideDuration = 0.15f;
     [SerializeField] private AnimationCurve popCurve;
     
     private Coroutine animationCoroutine;
+    private string currentVideoURL;
     
     void Awake()
     {
         canvasGroup = GetComponent<CanvasGroup>();
         
-        // Default pop curve if none set
         if (popCurve == null || popCurve.length <= 1)
         {
             popCurve = new AnimationCurve(
                 new Keyframe(0f, 0f),
-                new Keyframe(0.5f, 1.1f), // Overshoot
+                new Keyframe(0.5f, 1.1f),
                 new Keyframe(1f, 1f)
             );
+        }
+        
+        // Setup button click
+        if (watchVideoButton != null)
+        {
+            watchVideoButton.onClick.AddListener(OpenVideo);
         }
         
         Hide();
@@ -42,6 +50,13 @@ public class UIModal : MonoBehaviour
         {
             titleText.text = cardData.title;
             descriptionText.text = cardData.description;
+            currentVideoURL = cardData.youtubeURL;
+            
+            // Show/hide button based on whether URL exists
+            if (watchVideoButton != null)
+            {
+                watchVideoButton.gameObject.SetActive(!string.IsNullOrEmpty(currentVideoURL));
+            }
         }
         
         gameObject.SetActive(true);
@@ -58,6 +73,14 @@ public class UIModal : MonoBehaviour
             StopCoroutine(animationCoroutine);
         
         animationCoroutine = StartCoroutine(PopOut());
+    }
+    
+    private void OpenVideo()
+    {
+        if (!string.IsNullOrEmpty(currentVideoURL))
+        {
+            Application.OpenURL(currentVideoURL);
+        }
     }
     
     private IEnumerator PopIn()
