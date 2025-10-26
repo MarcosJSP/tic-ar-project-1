@@ -10,6 +10,13 @@ public class MultipleImagesTrackingManager : MonoBehaviour
 
     [Header("UI")]
     [SerializeField] private GameObject navBar;
+    [SerializeField] private UIModal modal; // Add this
+
+    // Then create a public method that your button calls:
+    public void OpenModal()
+    {
+        modal.Show();
+    }
 
     private ARTrackedImageManager _trackedImageManager;
     private Dictionary<string, GameObject> _arObjects = new();
