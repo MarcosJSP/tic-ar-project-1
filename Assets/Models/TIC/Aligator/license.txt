@@ -1,0 +1,11 @@
+Model Information:
+* title:	American Aligator from COTW game
+* source:	https://sketchfab.com/3d-models/american-aligator-from-cotw-game-1733f8a002124a619873e79cd5d7b071
+* author:	Game-animal ripper (https://sketchfab.com/game-ripper)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "American Aligator from COTW game" (https://sketchfab.com/3d-models/american-aligator-from-cotw-game-1733f8a002124a619873e79cd5d7b071) by Game-animal ripper (https://sketchfab.com/game-ripper) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
