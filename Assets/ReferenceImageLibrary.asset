@@ -117,3 +117,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: RhinoBeetleMarker
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4709098612885097536
+      m_GuidHigh: 18028584511280025011
+    m_SerializedTextureGuid:
+      m_GuidLow: 16447560351520713838
+      m_GuidHigh: 13026425973266235752
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: BlackGiantCicadaMarker
+    m_Texture: {fileID: 0}
