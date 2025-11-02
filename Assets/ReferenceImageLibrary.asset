@@ -137,3 +137,33 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: CauliflowerJellyfishMarker
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5200473289275988905
+      m_GuidHigh: 3594520209115715741
+    m_SerializedTextureGuid:
+      m_GuidLow: 2603629604143998614
+      m_GuidHigh: 4544484608552925642
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: CrystalJellyfishMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5035225964468917814
+      m_GuidHigh: 7198545453864361357
+    m_SerializedTextureGuid:
+      m_GuidLow: 10696410429339674165
+      m_GuidHigh: 12690834907627282888
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: GrayWolfMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5442572405819792543
+      m_GuidHigh: 2083395063190294695
+    m_SerializedTextureGuid:
+      m_GuidLow: 2595695150582508413
+      m_GuidHigh: 6788181919382098665
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: GiraffeMarker
+    m_Texture: {fileID: 0}
