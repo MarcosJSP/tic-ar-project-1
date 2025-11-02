@@ -77,3 +77,23 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: WhaleSharkMarker
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4850820471081490657
+      m_GuidHigh: 9856195050882472064
+    m_SerializedTextureGuid:
+      m_GuidLow: 6053775267579066260
+      m_GuidHigh: 9334045282107350315
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: BluewWhaleMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4897962188391658356
+      m_GuidHigh: 9865659878183876518
+    m_SerializedTextureGuid:
+      m_GuidLow: 328474162181708071
+      m_GuidHigh: 11212029631087324827
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: GoldenPoisonFrogMarker
+    m_Texture: {fileID: 0}
