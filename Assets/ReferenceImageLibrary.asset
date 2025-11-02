@@ -177,3 +177,23 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: LionMarker
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4727181563016728406
+      m_GuidHigh: 13714966679990759812
+    m_SerializedTextureGuid:
+      m_GuidLow: 14185784350787998545
+      m_GuidHigh: 3915949029514246091
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: LoggerheadSeaTurtleMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5723483848618134089
+      m_GuidHigh: 360113039147148183
+    m_SerializedTextureGuid:
+      m_GuidLow: 13009906614933003731
+      m_GuidHigh: 6889851010576415352
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: GuineafowlMarker
+    m_Texture: {fileID: 0}

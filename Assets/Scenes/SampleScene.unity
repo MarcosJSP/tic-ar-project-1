@@ -1178,6 +1178,8 @@ MonoBehaviour:
   - {fileID: 231822574381826669, guid: ff7f495564ffc48938bdf6608e24e708, type: 3}
   - {fileID: 231822574381826669, guid: ab7d6edce829f452da1adc1dfdee7530, type: 3}
   - {fileID: 231822574381826669, guid: 02c1299fa2b09423abe1959efa43d2aa, type: 3}
+  - {fileID: 231822574381826669, guid: eae94584dcf70442483bf7fe7256e02c, type: 3}
+  - {fileID: 231822574381826669, guid: edab64b21497548b98c9d82fd8d48250, type: 3}
   navBar: {fileID: 564465406}
   modal: {fileID: 1522798988}
 --- !u!1 &832575517
