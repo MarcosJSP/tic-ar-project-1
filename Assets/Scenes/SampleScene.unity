@@ -1177,6 +1177,7 @@ MonoBehaviour:
   - {fileID: 231822574381826669, guid: d4b0fc9d6c99849e3b4216b2ad55f84c, type: 3}
   - {fileID: 231822574381826669, guid: ff7f495564ffc48938bdf6608e24e708, type: 3}
   - {fileID: 231822574381826669, guid: ab7d6edce829f452da1adc1dfdee7530, type: 3}
+  - {fileID: 231822574381826669, guid: 02c1299fa2b09423abe1959efa43d2aa, type: 3}
   navBar: {fileID: 564465406}
   modal: {fileID: 1522798988}
 --- !u!1 &832575517

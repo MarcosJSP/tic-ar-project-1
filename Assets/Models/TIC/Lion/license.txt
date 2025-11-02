@@ -1,0 +1,11 @@
+Model Information:
+* title:	lion from COTW game
+* source:	https://sketchfab.com/3d-models/lion-from-cotw-game-4192da9e51c34a6797a119eb8c0d4d58
+* author:	Game-animal ripper (https://sketchfab.com/game-ripper)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lion from COTW game" (https://sketchfab.com/3d-models/lion-from-cotw-game-4192da9e51c34a6797a119eb8c0d4d58) by Game-animal ripper (https://sketchfab.com/game-ripper) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -167,3 +167,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: GiraffeMarker
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5691842043357829927
+      m_GuidHigh: 3682245438552640146
+    m_SerializedTextureGuid:
+      m_GuidLow: 4946885371695540772
+      m_GuidHigh: 499838628859486443
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: LionMarker
+    m_Texture: {fileID: 0}
