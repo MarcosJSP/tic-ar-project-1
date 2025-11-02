@@ -123,11 +123,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 601c615a1357e4a458188ba85a176f20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: "Cocodrilo de r\xEDo"
-  description: "El cocodrilo de r\xEDo es un reptil (ov\xEDparo)  de hasta 400 kg
-    de peso que se alimenta a base de carne (carn\xEDvoro). Son animales muy territoriales
-    y agresivos, pero est\xE1n amenazados por cazadores furtivos."
-  youtubeURL: https://www.youtube.com/watch?v=6kPQ1dHl0sY
+  title: "Alig\xE1tor \namericano"
+  description: "El alig\xE1tor americano o cocodrilo del r\xEDo Misisipi es un reptil
+    (ov\xEDparo) de hasta 400 kg de peso que se alimenta a base de carne (carn\xEDvoro).
+    Son animales muy territoriales y agresivos, pero est\xE1n amenazados por cazadores
+    furtivos."
+  youtubeURL: https://youtu.be/cM6I8V--W_o
   cardImage: {fileID: 0}
 --- !u!1001 &297222175325724776
 PrefabInstance:
@@ -147,15 +148,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8897093224900880590, guid: 9e2b3296c6eb54d87a5c8a0fdd82a320, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.5
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 8897093224900880590, guid: 9e2b3296c6eb54d87a5c8a0fdd82a320, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.5
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 8897093224900880590, guid: 9e2b3296c6eb54d87a5c8a0fdd82a320, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.5
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 8897093224900880590, guid: 9e2b3296c6eb54d87a5c8a0fdd82a320, type: 3}
       propertyPath: m_LocalPosition.x
@@ -167,7 +168,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8897093224900880590, guid: 9e2b3296c6eb54d87a5c8a0fdd82a320, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.165
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 8897093224900880590, guid: 9e2b3296c6eb54d87a5c8a0fdd82a320, type: 3}
       propertyPath: m_LocalRotation.w
@@ -229,7 +230,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3858886845378028153, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
       propertyPath: m_text
-      value: Aligator
+      value: "Alig\xE1tor \namericano"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3858886845378028153, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
+      propertyPath: m_fontSize
+      value: 88.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3858886845378028153, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
+      propertyPath: m_lineSpacing
+      value: -25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3858886845378028153, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
+      propertyPath: m_TextWrappingMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5484898378673767507, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
       propertyPath: m_Pivot.x
@@ -297,7 +310,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5484898378673767507, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.662
+      value: 0.466
       objectReference: {fileID: 0}
     - target: {fileID: 5484898378673767507, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -313,6 +326,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8217651331258937465, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
       propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8793509949262498290, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
+      propertyPath: m_AnchorMax.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8793509949262498290, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
