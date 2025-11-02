@@ -197,3 +197,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: GuineafowlMarker
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5664928078842959159
+      m_GuidHigh: 1181011688530404529
+    m_SerializedTextureGuid:
+      m_GuidLow: 14182576312811330251
+      m_GuidHigh: 10930296436605535928
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: OctopusMarker
+    m_Texture: {fileID: 0}

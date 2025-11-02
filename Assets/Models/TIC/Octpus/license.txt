@@ -1,0 +1,11 @@
+Model Information:
+* title:	Octpus
+* source:	https://sketchfab.com/3d-models/octpus-a08c12ad3a374a63a95ec577a69a3829
+* author:	nathaniel (https://sketchfab.com/Xfdfgd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Octpus" (https://sketchfab.com/3d-models/octpus-a08c12ad3a374a63a95ec577a69a3829) by nathaniel (https://sketchfab.com/Xfdfgd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
