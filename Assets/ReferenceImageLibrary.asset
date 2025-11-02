@@ -97,3 +97,23 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: GoldenPoisonFrogMarker
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5324627737317694835
+      m_GuidHigh: 14578107101610521995
+    m_SerializedTextureGuid:
+      m_GuidLow: 1470292610973108377
+      m_GuidHigh: 13512940315533517018
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: RhinoMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5724075229869929463
+      m_GuidHigh: 12686486195676292232
+    m_SerializedTextureGuid:
+      m_GuidLow: 7234031121580280380
+      m_GuidHigh: 7327223753718726104
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: RhinoBeetleMarker
+    m_Texture: {fileID: 0}
