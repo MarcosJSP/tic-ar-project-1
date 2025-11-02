@@ -127,3 +127,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: BlackGiantCicadaMarker
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5047258986746350308
+      m_GuidHigh: 3263157511831755667
+    m_SerializedTextureGuid:
+      m_GuidLow: 11840948948288986901
+      m_GuidHigh: 11948905021028404795
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: CauliflowerJellyfishMarker
+    m_Texture: {fileID: 0}
