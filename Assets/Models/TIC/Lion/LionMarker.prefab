@@ -124,10 +124,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Le\xF3n"
-  description: "Vive en manadas y es uno de los felinos m\xE1s grandes; los machos
-    tienen melena y las hembras suelen cazar en grupo. Duermen hasta 20 horas al
-    d\xEDa. Los machos pesan m\xE1s que las hembras 120 kg / 250 kg . Tama\xF1o 2,5
-    metros \nLos leones son los \xFAnicos felinos que viven en manadas."
+  description: "Altura: 1,2 m\n\nPeso: 120\u2013250 kg\n\nTipo: Mam\xEDfero viv\xEDparo\n\nAlimentaci\xF3n:
+    Carn\xEDvoro (se alimenta de ant\xEDlopes, cebras y b\xFAfalos)\n\nH\xE1bitat:
+    Sabanas y praderas del \xC1frica subsahariana, aunque existen peque\xF1as poblaciones
+    en la India. Prefiere zonas abiertas con buena visibilidad y abundancia de presas.\n\nDescripci\xF3n:
+    Uno de los felinos m\xE1s grandes y el \xFAnico que vive en grupos sociales estables
+    llamados manadas. Los machos poseen una melena caracter\xEDstica, mientras que
+    las hembras cazan en equipo. Pueden dormir hasta 20 horas al d\xEDa. Se comunican
+    mediante rugidos, posturas y roces corporales. Su fuerza, cooperaci\xF3n y jerarqu\xEDa
+    lo convierten en el principal depredador de la sabana africana."
   youtubeURL: https://youtu.be/ZSHHqt6qQ4c?feature=shared
   cardImage: {fileID: 0}
 --- !u!1001 &5562073462550480034

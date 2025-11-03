@@ -124,10 +124,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Alpaca
-  description: "Las alpacas son mam\xEDferos herb\xEDvoros. Son animales muy sociales,
-    pero te pueden escupir si se llegan a sentir amenazadas. Como dato curioso, las
-    alpacas tienen 3 compartimentos en el est\xF3mago para digerir bien la celulosa
-    y aprovechar al m\xE1ximo los nutrientes."
+  description: "Altura/longitud: 90 cm (a la cruz)\n\nPeso: 55\u201365 kg\n\nTipo:
+    Mam\xEDfero viv\xEDparo\n\nAlimentaci\xF3n: Herb\xEDvora\n\nH\xE1bitat: Regiones
+    altoandinas de Per\xFA, Bolivia y Chile, entre los 3.500 y 5.000 metros de altitud.
+    Prefiere zonas fr\xEDas y secas con pastizales de altura.\n\nDescripci\xF3n:
+    Animal d\xF3cil y social que vive en reba\xF1os. Se comunica mediante sonidos
+    suaves y posturas corporales. Su lana, muy fina y c\xE1lida, la hace una especie
+    domesticada desde tiempos preincaicos. Aunque es tranquila, puede escupir para
+    defenderse o marcar jerarqu\xEDa dentro del grupo."
   youtubeURL: https://www.youtube.com/watch?v=WLw1gUBjHYQ
   cardImage: {fileID: 0}
 --- !u!1001 &5562073462550480034

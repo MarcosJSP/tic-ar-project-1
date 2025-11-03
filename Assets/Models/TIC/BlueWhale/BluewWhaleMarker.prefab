@@ -124,8 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Ballena azul
-  description: "La Ballena Azul es un mam\xEDfero micr\xF3fago que se alimenta a
-    base de krill ( 4 T por dia), miden 30 M y pesan 180 T (25 elefantes) "
+  description: "Longitud: 24\u201330 m\n\nPeso: 100\u2013180 toneladas\n\nTipo: Mam\xEDfero
+    viv\xEDparo\n\nAlimentaci\xF3n: Carn\xEDvora (se alimenta principalmente de kril)\n\nH\xE1bitat:
+    Oc\xE9anos de todo el mundo, desde regiones polares hasta zonas tropicales, seg\xFAn
+    la estaci\xF3n. Prefiere aguas profundas y abiertas donde abunda el plancton.\n\nDescripci\xF3n:
+    Es el animal m\xE1s grande que ha existido en la Tierra. A pesar de su tama\xF1o,
+    es una especie pac\xEDfica y de movimientos lentos. Vive sola o en peque\xF1os
+    grupos y se comunica mediante potentes vocalizaciones de baja frecuencia que
+    pueden o\xEDrse a cientos de kil\xF3metros. Su coraz\xF3n puede pesar m\xE1s
+    de 150 kg, y cada a\xF1o recorre miles de kil\xF3metros durante sus migraciones
+    entre zonas de alimentaci\xF3n y reproducci\xF3n."
   youtubeURL: https://www.youtube.com/watch?v=cMmxukrz_NY
   cardImage: {fileID: 0}
 --- !u!1001 &5562073462550480034

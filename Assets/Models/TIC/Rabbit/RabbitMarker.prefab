@@ -124,9 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Conejo
-  description: "Es un animal muy peque\xF1o con orejas largas que salta muy r\xE1pido
-    y bastante alto, los dientes de este animal nunca paran de crecer por eso mismo
-    necesitan roer cosas todo el tiempo."
+  description: "Altura: 25\u201340 cm\n\nPeso: 1\u20132,5 kg\n\nTipo: Mam\xEDfero
+    viv\xEDparo\n\nAlimentaci\xF3n: Herb\xEDvoro (se alimenta de hierbas, hojas y
+    ra\xEDces)\n\nH\xE1bitat: Zonas templadas de Europa, Asia y el norte de \xC1frica,
+    aunque ha sido introducido en muchos otros lugares del mundo. Prefiere praderas,
+    campos y bosques ligeros, donde excava madrigueras para refugiarse.\n\nDescripci\xF3n:
+    Animal peque\xF1o y muy \xE1gil, con orejas largas y patas traseras fuertes que
+    le permiten saltar grandes distancias. Posee una visi\xF3n amplia para detectar
+    depredadores y una gran capacidad reproductiva. Sus dientes crecen continuamente,
+    por lo que necesita roer para desgastarlos. Es sociable y se comunica mediante
+    movimientos corporales y golpes en el suelo."
   youtubeURL: https://www.youtube.com/watch?v=2OhMNs5l3Aw&pp=ygUWY29uZWpvIGNhcmFjdGVyaXN0aWNhcw%3D%3D
   cardImage: {fileID: 0}
 --- !u!1001 &4283301745421043297

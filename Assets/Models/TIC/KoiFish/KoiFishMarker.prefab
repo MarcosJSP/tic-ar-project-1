@@ -124,8 +124,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Pez koi
-  description: "Es un pez muy bonito que vive en estanques. Tiene colores como rojo,
-    blanco o dorado. En Asia dicen que trae buena suerte y puede vivir muchos a\xF1os."
+  description: "Longitud: Hasta 1,2 m\n\nPeso: 5\u201310 kg\n\nTipo: Pez ov\xEDparo
+    (agua dulce)\n\nAlimentaci\xF3n: Omn\xEDvoro (se alimenta de algas, insectos
+    y plantas acu\xE1ticas)\n\nH\xE1bitat: Estanques, lagos y r\xEDos de aguas tranquilas.
+    Originaria de Asia, especialmente de Jap\xF3n y China, donde ha sido criada durante
+    siglos por su belleza y simbolismo.\n\nDescripci\xF3n: Pez muy colorido, con
+    tonalidades que pueden incluir rojo, blanco, naranja, amarillo o dorado. Es tranquilo,
+    sociable y suele vivir en grupos. Puede alcanzar una larga vida, superando los
+    30 a\xF1os en condiciones adecuadas. En la cultura asi\xE1tica representa la
+    fuerza, la perseverancia y la buena suerte."
   youtubeURL: https://www.youtube.com/watch?v=Vz7l9R9ehBA
   cardImage: {fileID: 0}
 --- !u!1001 &5562073462550480034

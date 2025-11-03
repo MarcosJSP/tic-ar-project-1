@@ -124,9 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Rinoceronte
-  description: "Es un animal muy grande y fuerte con uno o dos dientes justo en la
-    punta de la nariz, adem\xE1s este animal, a pesar de su peso puede correr hasta
-    50 km/hora."
+  description: "Altura: 1,5\u20131,8 m (a la cruz)\n\nPeso: 800\u20132 300 kg (seg\xFAn
+    la especie)\n\nTipo: Mam\xEDfero viv\xEDparo\n\nAlimentaci\xF3n: Herb\xEDvoro
+    (se alimenta de hierbas, ramas y hojas)\n\nH\xE1bitat: Sabanas, praderas y selvas
+    de \xC1frica y Asia, dependiendo de la especie. Prefiere zonas amplias con acceso
+    a agua y barro, donde se revuelca para refrescarse y proteger su piel de par\xE1sitos.\n\nDescripci\xF3n:
+    Animal muy grande y fuerte, f\xE1cilmente reconocible por uno o dos cuernos en
+    el hocico. A pesar de su enorme tama\xF1o, puede alcanzar velocidades de hasta
+    50 km/h. Posee una piel gruesa y resistente que act\xFAa como armadura. Generalmente
+    solitario, se comunica mediante sonidos graves y marcas olfativas. Est\xE1 amenazado
+    por la caza furtiva debido al alto valor de sus cuernos."
   youtubeURL: https://www.youtube.com/watch?v=7l0Vx2IGEdY&pp=ygUJcmlub2Nlcm9u
   cardImage: {fileID: 0}
 --- !u!1001 &2556370387763407837

@@ -124,9 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Jirafa
-  description: "Es el mam\xEDfero m\xE1s alto del mundo, puede medir hasta unos 6
-    m y tiene un cuello largu\xEDsimo que le permite alcanzar hojas muy altas. Peso
-    1000 kg. Las jirafas duermen muy poco , con 30 minutos al dia ya estan completamente "
+  description: "Altura: 4,5\u20136 m\n\nPeso: 800\u20131.200 kg\n\nTipo: Mam\xEDfero
+    viv\xEDparo\n\nAlimentaci\xF3n: Herb\xEDvoro (se alimenta de hojas, brotes y
+    flores, especialmente de acacias)\n\nH\xE1bitat: Sabanas, bosques abiertos y
+    praderas del \xC1frica subsahariana. Prefiere zonas con \xE1rboles dispersos
+    que le proporcionan alimento y buena visibilidad frente a depredadores.\n\nDescripci\xF3n:
+    Es el animal terrestre m\xE1s alto del mundo. Posee un largo cuello y patas esbeltas
+    que le permiten alcanzar las copas de los \xE1rboles. Tiene un patr\xF3n \xFAnico
+    de manchas que var\xEDa seg\xFAn la subespecie. Vive en grupos sociales flexibles
+    y se comunica mediante sonidos graves y movimientos del cuello. A pesar de su
+    tama\xF1o, es \xE1gil y puede correr hasta 60 km/h en distancias cortas."
   youtubeURL: https://youtu.be/YWymdePxgu4?si=XuPfMygRb-79jqvl
   cardImage: {fileID: 0}
 --- !u!1001 &5248994523991489735

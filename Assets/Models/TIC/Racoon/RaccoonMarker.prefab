@@ -124,11 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Mapache
-  description: "El mapache es un animal muy curioso y listo.\nTiene pelo gris, una
-    cola con anillos negros y una mancha negra en los ojos que parece un antifaz.\nVive
-    en bosques y ciudades y sale de noche a buscar comida.\nCome frutas, insectos,
-    peces y restos de comida.\nEs muy h\xE1bil con las patas y puede abrir tapas
-    o puertas para conseguir lo que quiere."
+  description: "Altura: 40\u201360 cm (sin cola)\n\nPeso: 5\u201312 kg\n\nTipo: Mam\xEDfero
+    viv\xEDparo\n\nAlimentaci\xF3n: Omn\xEDvoro (se alimenta de frutas, insectos,
+    huevos, peces y restos de comida)\n\nH\xE1bitat: Bosques templados, zonas ribere\xF1as
+    y \xE1reas urbanas de Am\xE9rica del Norte y Central. Se adapta f\xE1cilmente
+    a entornos habitados por humanos, donde puede encontrar alimento en basureros
+    o cultivos.\n\nDescripci\xF3n: Animal muy curioso e inteligente, reconocido por
+    su m\xE1scara facial negra y su cola anillada. Posee patas delanteras semejantes
+    a manos, con gran destreza para abrir tapas y puertas. Es nocturno, excelente
+    trepador y muestra una gran capacidad de adaptaci\xF3n gracias a su memoria y
+    habilidades de manipulaci\xF3n."
   youtubeURL: https://youtu.be/-v5WEjDw_SY
   cardImage: {fileID: 0}
 --- !u!1001 &584842114890029475

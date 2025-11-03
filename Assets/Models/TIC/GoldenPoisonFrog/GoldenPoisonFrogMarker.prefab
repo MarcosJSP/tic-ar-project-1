@@ -124,10 +124,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Rana dardo \ndorada"
-  description: "La rana dardo dorada es una ranita muy peque\xF1a y de color amarillo
-    brillante que vive en las selvas de Colombia. Aunque parece bonita, es muy venenosa:
-    su piel tiene un veneno tan fuerte que puede hacer da\xF1o a otros animales si
-    la tocan. Su color sirve para avisar a los dem\xE1s de que no deben acercarse."
+  description: "Longitud: 3\u20135 cm\n\nPeso: 1\u20133 g\n\nTipo: Anfibio ov\xEDparo\n\nAlimentaci\xF3n:
+    Carn\xEDvora (se alimenta de insectos peque\xF1os, como hormigas y \xE1caros)\n\nH\xE1bitat:
+    Selvas tropicales h\xFAmedas del occidente de Colombia, cerca de la costa del
+    Pac\xEDfico. Vive entre la hojarasca y las ra\xEDces, en zonas con alta humedad
+    y temperaturas c\xE1lidas.\n\nDescripci\xF3n: Considerada el anfibio m\xE1s venenoso
+    del mundo. Su piel segrega una potente toxina (batraquotoxina) que los pueblos
+    ind\xEDgenas han usado para impregnar las puntas de sus dardos. Su color amarillo
+    brillante advierte a los depredadores del peligro. A pesar de su toxicidad, en
+    cautiverio pierde el veneno debido a la ausencia de su dieta natural. Es activa
+    durante el d\xEDa y cuida atentamente a sus renacuajos, transport\xE1ndolos sobre
+    su espalda hasta el agua."
   youtubeURL: https://youtu.be/QHY6u3nO5tY
   cardImage: {fileID: 0}
 --- !u!1001 &4710441878439282738

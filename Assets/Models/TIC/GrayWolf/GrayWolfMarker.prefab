@@ -124,11 +124,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Lobo gris
-  description: "El lobo gris vive en manadas donde cada individuo tiene un rol, ayudan
-    a cuidar a los cachorros y a cazar juntos.  \uFFFC Tambi\xE9n tiene un papel
-    importante en su ecosistema porque regula poblaciones de otros animales y mantiene
-    el equilibrio natural. Peso 30/80 kg    Tama\xF1o 1,3 metros.\nCuando aullan
-    se pueden comunicar con otros lobos o para marcar terreno."
+  description: "Altura: 60\u201390 cm\n\nPeso: 30\u201380 kg (seg\xFAn la regi\xF3n
+    y la subespecie)\n\nTipo: Mam\xEDfero viv\xEDparo\n\nAlimentaci\xF3n: Carn\xEDvoro
+    (se alimenta de ciervos, alces, bisontes, roedores y carro\xF1a)\n\nH\xE1bitat:
+    Bosques, tundras, praderas y monta\xF1as del hemisferio norte, incluyendo Am\xE9rica
+    del Norte, Europa y Asia. Prefiere regiones extensas y fr\xEDas, con abundancia
+    de presas.\n\nDescripci\xF3n: Es un depredador social que vive y caza en manadas
+    organizadas. Se comunica mediante aullidos, posturas corporales y olores. Posee
+    un agudo sentido del o\xEDdo y del olfato, y puede recorrer grandes distancias
+    en busca de alimento. Su pelaje, de tonos grises, marrones o blancos, le brinda
+    aislamiento t\xE9rmico. Cumple un papel ecol\xF3gico clave al mantener el equilibrio
+    en las poblaciones de herb\xEDvoros."
   youtubeURL: https://youtu.be/SMFhqKRaR2Y?si=youYq1ySmULA_zuN
   cardImage: {fileID: 0}
 --- !u!1001 &5562073462550480034

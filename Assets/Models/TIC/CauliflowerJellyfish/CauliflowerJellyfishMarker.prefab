@@ -124,10 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Medusa coliflor
-  description: "La medusa coliflor es una medusa grande y de colores brillantes.\nLo
-    curioso es que peque\xF1os peces y camarones viven junto a ella, escondi\xE9ndose
-    entre sus pliegues para no ser comidos por otros animales.\nLa medusa les da
-    protecci\xF3n, y ellos la ayudan manteni\xE9ndola limpia."
+  description: "Di\xE1metro: 30\u201360 cm\n\nPeso: Hasta 10 kg\n\nTipo: Invertebrado
+    ov\xEDparo (cnidario)\n\nAlimentaci\xF3n: Carn\xEDvora (se alimenta de zooplancton
+    y peque\xF1os peces)\n\nH\xE1bitat: Mares tropicales del oc\xE9ano \xCDndico
+    y Pac\xEDfico, especialmente en zonas c\xE1lidas y de aguas abiertas. Puede encontrarse
+    a diferentes profundidades, desde la superficie hasta niveles medios del oc\xE9ano.\n\nDescripci\xF3n:
+    Reconocible por las protuberancias que cubren su cuerpo, las cuales le dan el
+    aspecto de una coliflor. Se desplaza lentamente mediante pulsaciones r\xEDtmicas
+    y no suele ser agresiva, aunque puede provocar picaduras al contacto. Su movimiento
+    elegante y su coloraci\xF3n transl\xFAcida la hacen una de las medusas m\xE1s
+    llamativas del oc\xE9ano."
   youtubeURL: https://youtu.be/0PGO-3AwPTg
   cardImage: {fileID: 0}
 --- !u!1001 &5562073462550480034

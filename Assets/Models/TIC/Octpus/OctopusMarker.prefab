@@ -124,10 +124,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Pulpo gigante \ndel Pac\xEDfico"
-  description: "El pulpo gigante del Pac\xEDfico es el pulpo m\xE1s grande del mundo.\nVive
-    en aguas fr\xEDas del oc\xE9ano Pac\xEDfico, desde Jap\xF3n hasta Am\xE9rica
-    del Norte.\nPuede medir m\xE1s de 5 metros, cambiar de color y es muy inteligente.\nCome
-    cangrejos y peces, y vive entre 3 y 5 a\xF1os.\n"
+  description: "Longitud: Hasta 5 m (con tent\xE1culos extendidos)\n\nPeso: 50\u201370
+    kg\n\nTipo: Invertebrado ov\xEDparo (molusco cefal\xF3podo)\n\nAlimentaci\xF3n:
+    Carn\xEDvoro (se alimenta de cangrejos, peces y moluscos)\n\nH\xE1bitat: Aguas
+    fr\xEDas del oc\xE9ano Pac\xEDfico norte, desde Jap\xF3n hasta la costa oeste
+    de Am\xE9rica del Norte. Vive en zonas rocosas y cuevas submarinas, a profundidades
+    que van desde la orilla hasta m\xE1s de 1000 metros.\n\nDescripci\xF3n: Es el
+    pulpo m\xE1s grande del mundo y destaca por su capacidad para cambiar de color
+    y textura como m\xE9todo de camuflaje. De h\xE1bitos solitarios y nocturnos,
+    muestra una gran inteligencia, siendo capaz de resolver problemas, abrir frascos
+    y escapar de recintos. Utiliza su fuerza y su camuflaje tanto para cazar como
+    para defenderse."
   youtubeURL: https://youtu.be/vk3Jv61WsfY
   cardImage: {fileID: 0}
 --- !u!1001 &5562073462550480034

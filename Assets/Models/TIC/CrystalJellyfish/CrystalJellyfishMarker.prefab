@@ -124,10 +124,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Medusa de \ncristal"
-  description: "La medusa de cristal (Aequorea victoria) es casi transparente y vive
-    en el Pac\xEDfico, desde California hasta Vancouver.\nBrilla suavemente por \xF3rganos
-    luminosos y puede comer otras medusas.\nMide entre 2 y 25 cent\xEDmetros y vive
-    de 2 a 6 meses.\n"
+  description: "Di\xE1metro: 3\u201310 cm\n\nPeso: Muy liviana (menos de 100 g)\n\nTipo:
+    Invertebrado ov\xEDparo (cnidario)\n\nAlimentaci\xF3n: Carn\xEDvora (se alimenta
+    de peque\xF1os organismos marinos)\n\nH\xE1bitat: Aguas templadas del oc\xE9ano
+    Pac\xEDfico, especialmente frente a las costas del noroeste de Am\xE9rica del
+    Norte. Habita cerca de la superficie, en zonas de poca profundidad y bien iluminadas.\n\nDescripci\xF3n:
+    De aspecto transparente y delicado, se desplaza suavemente mediante contracciones
+    r\xEDtmicas. Es famosa por producir la prote\xEDna fluorescente verde (GFP),
+    utilizada en biolog\xEDa molecular. Puede emitir un brillo verdoso en la oscuridad,
+    que emplea como mecanismo de defensa o para atraer presas."
   youtubeURL: https://youtu.be/0PGO-3AwPTg
   cardImage: {fileID: 0}
 --- !u!1001 &758318452649051141

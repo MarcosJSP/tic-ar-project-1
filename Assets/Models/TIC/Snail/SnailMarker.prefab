@@ -124,15 +124,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Caracol
-  description: 'El caracol es un molusco con una concha en espiral donde vive, y
-    se mueve lentamente arrastrando su cuerpo por el suelo.
-
-    Aunque pensamos
-    que los caracoles son muy lentos, algunas especies tienen estrategias especiales
-    para escapar de depredadores lanzando su concha o usando baba para deslizarse
-    mejor.
-
-'
+  description: "Altura (longitud del cuerpo): 2\u201310 cm (seg\xFAn la especie)\n\nPeso:
+    Menos de 100 g\n\nTipo: Invertebrado ov\xEDparo (molusco)\n\nAlimentaci\xF3n:
+    Herb\xEDvoro (se alimenta de hojas, frutas y vegetales)\n\nH\xE1bitat: Zonas
+    h\xFAmedas de bosques, jardines y campos de todo el mundo. Prefiere ambientes
+    con sombra y humedad, aunque algunas especies viven en agua dulce o salada.\n\nDescripci\xF3n:
+    Posee una concha en espiral que crece junto con su cuerpo y le sirve de refugio.
+    Se desplaza lentamente gracias a un pie muscular que segrega una baba viscosa
+    que facilita el movimiento y protege su piel. Es muy sensible a los cambios de
+    humedad y suele esconderse durante el calor o la sequ\xEDa."
   youtubeURL: https://youtu.be/xH9Qj0Xew5E?si=LEeX6uSPnnzOBN15
   cardImage: {fileID: 0}
 --- !u!1001 &3409777745416963195

@@ -124,8 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Cabra montesa
-  description: "Vive en las monta\xF1as y tiene cuernos grandes y curvados. Puede
-    subir y saltar por las rocas sin caerse."
+  description: "Altura: 70\u201390 cm\n\nPeso: Machos 80\u2013120 kg; hembras 40\u201375
+    kg\n\nTipo: Mam\xEDfero viv\xEDparo\n\nAlimentaci\xF3n: Herb\xEDvoro (se alimenta
+    de hierbas, hojas y brotes)\n\nH\xE1bitat: Zonas monta\xF1osas y rocosas del
+    sur de Europa y el norte de \xC1frica. En la pen\xEDnsula ib\xE9rica habita sierras
+    y cordilleras donde se mueve por acantilados y laderas escarpadas.\n\nDescripci\xF3n:
+    Animal muy \xE1gil y resistente, capaz de escalar pendientes pronunciadas sin
+    dificultad gracias a sus patas fuertes y pezu\xF1as adaptadas. Vive en grupos
+    peque\xF1os que se dispersan seg\xFAn la estaci\xF3n. Los machos poseen grandes
+    cuernos curvados que utilizan en enfrentamientos durante la \xE9poca de celo.
+    Su equilibrio y destreza le permiten escapar f\xE1cilmente de los depredadores."
   youtubeURL: https://www.youtube.com/watch?v=Gmb4FtAtI28
   cardImage: {fileID: 0}
 --- !u!1001 &4194047811340278698

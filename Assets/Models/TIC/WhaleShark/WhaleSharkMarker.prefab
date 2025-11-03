@@ -124,8 +124,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Tibur\xF3n \nballena"
-  description: "Es el pez m\xE1s grande del mundo, pero muy tranquilo. Come plancton
-    y peces peque\xF1os, por eso lo llaman el \u201Cgigante amable\u201D."
+  description: "Longitud: Hasta 12 m (excepcionalmente m\xE1s de 15 m)\n\nPeso: 15\u201320
+    toneladas\n\nTipo: Pez ovoviv\xEDparo (cartilaginoso)\n\nAlimentaci\xF3n: Carn\xEDvoro
+    filtrador (se alimenta de plancton, kril, peces peque\xF1os y huevos flotantes)\n\nH\xE1bitat:
+    Aguas c\xE1lidas y templadas de oc\xE9anos tropicales alrededor del mundo. Prefiere
+    zonas costeras y mar abierto cerca de la superficie, donde el plancton es abundante.\n\nDescripci\xF3n:
+    Es el pez m\xE1s grande del mundo, pero completamente inofensivo para el ser
+    humano. Su cuerpo es alargado, con una amplia boca frontal y un patr\xF3n distintivo
+    de manchas y l\xEDneas claras sobre el dorso gris azulado. Se desplaza lentamente
+    mientras filtra el agua para alimentarse. Es una especie solitaria y migratoria,
+    capaz de recorrer miles de kil\xF3metros al a\xF1o. Est\xE1 considerada vulnerable
+    debido a la pesca y la contaminaci\xF3n marina."
   youtubeURL: https://youtu.be/majKp1Xem6M?list=PLamk-cxEO_ExnnljjbbFrAEQpWmK2Bjw9
   cardImage: {fileID: 0}
 --- !u!1001 &168370164602829559

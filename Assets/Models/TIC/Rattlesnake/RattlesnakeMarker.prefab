@@ -124,12 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Serpiente \nde cascabel"
-  description: "La serpiente de cascabel de los bosques es una serpiente venenosa
-    que vive en los bosques del este de Estados Unidos.\nPuede medir hasta metro
-    y medio y tiene la piel marr\xF3n con rayas oscuras para esconderse entre las
-    hojas.\nEn la punta de su cola tiene un cascabel que suena cuando se siente en
-    peligro.\nCome ratones y otros animales peque\xF1os, y normalmente no ataca a
-    las personas si no la molestan."
+  description: "Longitud: 1\u20132,5 m\n\nPeso: 1\u20134 kg\n\nTipo: Reptil ov\xEDparo
+    o viv\xEDparo (seg\xFAn la especie)\n\nAlimentaci\xF3n: Carn\xEDvoro (se alimenta
+    de roedores y aves peque\xF1as)\n\nH\xE1bitat: Zonas \xE1ridas, desiertos y bosques
+    secos de Am\xE9rica, desde el sur de Canad\xE1 hasta Argentina. Prefiere terrenos
+    rocosos o arenosos donde puede camuflarse f\xE1cilmente.\n\nDescripci\xF3n: Serpiente
+    venenosa reconocible por el cascabel en la punta de su cola, que utiliza como
+    advertencia ante el peligro. Su veneno paraliza y ayuda a digerir a la presa.
+    Presenta tonalidades marrones o grises con manchas oscuras que le permiten confundirse
+    con el entorno. Generalmente evita el contacto con el ser humano, pero se defiende
+    con rapidez si se siente amenazada."
   youtubeURL: https://youtu.be/kBVTHl303bk
   cardImage: {fileID: 0}
 --- !u!1001 &5562073462550480034

@@ -124,11 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: Tortuga boba
-  description: "La tortuga boba es una tortuga marina grande con una cabeza fuerte
-    y un caparaz\xF3n marr\xF3n.\nVive en mares c\xE1lidos de todo el mundo y come
-    cangrejos, caracoles y medusas.\nLas hembras vuelven a la playa donde nacieron
-    para poner sus huevos.\nEst\xE1 en peligro porque muchas quedan atrapadas en
-    redes de pesca y por la contaminaci\xF3n del mar."
+  description: "Altura (longitud del caparaz\xF3n): 70\u2013110 cm\n\nPeso: 100\u2013180
+    kg\n\nTipo: Reptil ov\xEDparo\n\nAlimentaci\xF3n: Omn\xEDvora (se alimenta de
+    medusas, crust\xE1ceos y algas)\n\nH\xE1bitat: Mares templados y tropicales de
+    todo el mundo. Prefiere aguas costeras poco profundas, aunque realiza largas
+    migraciones entre las zonas de alimentaci\xF3n y las playas donde desova.\n\nDescripci\xF3n:
+    Posee un caparaz\xF3n duro que la protege de los depredadores. Nada lentamente
+    y debe salir peri\xF3dicamente a la superficie para respirar. Las hembras depositan
+    sus huevos en playas arenosas, regresando casi siempre al mismo lugar donde nacieron.
+    Puede vivir varias d\xE9cadas y recorrer miles de kil\xF3metros a lo largo de
+    su vida."
   youtubeURL: https://youtu.be/l0cYJEfsP-Y
   cardImage: {fileID: 0}
 --- !u!1001 &2719992723140593420

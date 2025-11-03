@@ -124,8 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Tibur\xF3n blanco"
-  description: Es un pez muy grande con dientes afilados. Aunque parece peligroso,
-    casi nunca ataca a las personas.
+  description: "Longitud: Hasta 6 m\n\nPeso: Hasta 2.000 kg\n\nTipo: Pez ovoviv\xEDparo
+    (cartilaginoso)\n\nAlimentaci\xF3n: Carn\xEDvoro (se alimenta de peces, focas
+    y tortugas)\n\nH\xE1bitat: Mares templados y costeros de todo el mundo, especialmente
+    cerca de Sud\xE1frica, Australia, California y el Mediterr\xE1neo. Prefiere aguas
+    abiertas, pero tambi\xE9n se acerca a la costa en busca de presas.\n\nDescripci\xF3n:
+    Gran depredador marino reconocido por sus dientes afilados y su cuerpo hidrodin\xE1mico.
+    A pesar de su reputaci\xF3n, los ataques a humanos son poco comunes. Posee un
+    agudo sentido del olfato y puede detectar sangre a gran distancia. Regula parcialmente
+    su temperatura corporal, lo que le permite moverse con rapidez y explorar aguas
+    m\xE1s fr\xEDas que otros tiburones."
   youtubeURL: https://www.youtube.com/watch?v=iFh-0eMVTtA
   cardImage: {fileID: 0}
 --- !u!1001 &2422389579819642203

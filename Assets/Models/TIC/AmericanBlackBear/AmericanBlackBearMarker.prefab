@@ -124,10 +124,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Oso negro \namericano"
-  description: "Los osos negros son mam\xEDferos omn\xEDvoros de 1,4 m de alto y
-    140 kg el ejemplar adulto. Durante el invierno entra en hibernaci\xF3n (sue\xF1o
-    profundo) en cuevas, troncos huecos o madrigueras. En este per\xEDodo no come,
-    no bebe y no defeca, sobreviviendo gracias a la grasa acumulada en verano y oto\xF1o."
+  description: "Longitud: 24\u201330 m\n\nPeso: 100\u2013180 toneladas\n\nTipo: Mam\xEDfero
+    viv\xEDparo\n\nAlimentaci\xF3n: Carn\xEDvora (se alimenta principalmente de kril)\n\nH\xE1bitat:
+    Oc\xE9anos de todo el mundo, desde regiones polares hasta zonas tropicales, seg\xFAn
+    la estaci\xF3n. Prefiere aguas profundas y abiertas donde abunda el plancton.\n\nDescripci\xF3n:
+    Considerada el animal m\xE1s grande que ha existido en la Tierra. A pesar de
+    su tama\xF1o, es una especie pac\xEDfica y de movimientos lentos. Generalmente
+    vive sola o en peque\xF1os grupos. Se comunica mediante potentes vocalizaciones
+    de baja frecuencia que pueden escucharse a cientos de kil\xF3metros de distancia.
+    Su coraz\xF3n puede pesar m\xE1s de 150 kg."
   youtubeURL: https://youtu.be/J1JVj9gEdjg
   cardImage: {fileID: 0}
 --- !u!1001 &809675329712268265

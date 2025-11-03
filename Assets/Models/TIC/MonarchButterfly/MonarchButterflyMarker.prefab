@@ -126,9 +126,17 @@ MonoBehaviour:
   title: 'Mariposa
 
     monarca'
-  description: "Es una mariposa con alas grandes de colores brillantes que vuela
-    de planta en planta tomando n\xE9ctar.\nLa mariposa monarca puede viajar miles
-    de kil\xF3metros en su migraci\xF3n anual.\n"
+  description: "Envergadura: 9\u201310 cm\n\nPeso: Menos de 1 g\n\nTipo: Insecto
+    ov\xEDparo\n\nAlimentaci\xF3n: Herb\xEDvoro (se alimenta del n\xE9ctar de flores)\n\nH\xE1bitat:
+    Praderas, campos y bosques templados de Am\xE9rica del Norte. Durante el invierno
+    migra hacia regiones m\xE1s c\xE1lidas de M\xE9xico y California. Prefiere zonas
+    donde crece el algodoncillo, planta esencial para su ciclo de vida.\n\nDescripci\xF3n:
+    Mariposa de alas naranjas con bordes y nervaduras negras, reconocida por su espectacular
+    migraci\xF3n anual de miles de kil\xF3metros. Su color brillante advierte a los
+    depredadores de su toxicidad, adquirida al alimentarse de plantas t\xF3xicas
+    en su fase de oruga. Cada a\xF1o, millones de mariposas monarca viajan desde
+    Canad\xE1 hasta M\xE9xico, en uno de los fen\xF3menos naturales m\xE1s impresionantes
+    del mundo de los insectos."
   youtubeURL: https://youtu.be/GrY4RRugZAY
   cardImage: {fileID: 0}
 --- !u!1001 &3624210976267745542

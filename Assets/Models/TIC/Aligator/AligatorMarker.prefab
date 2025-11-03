@@ -124,10 +124,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Alig\xE1tor \namericano"
-  description: "El alig\xE1tor americano o cocodrilo del r\xEDo Misisipi es un reptil
-    (ov\xEDparo) de hasta 400 kg de peso que se alimenta a base de carne (carn\xEDvoro).
-    Son animales muy territoriales y agresivos, pero est\xE1n amenazados por cazadores
-    furtivos."
+  description: "Longitud: 3\u20134,5 m (los machos m\xE1s grandes)\n\nPeso: 360\u2013450
+    kg\n\nTipo: Ov\xEDparo (reptil)\n\nAlimentaci\xF3n: Carn\xEDvoro\n\nH\xE1bitat:
+    Pantanos, lagos, r\xEDos y marismas del sureste de Estados Unidos, especialmente
+    en Florida y Luisiana.\n\nDescripci\xF3n: De h\xE1bitos semiacu\xE1ticos, suele
+    pasar horas tomando el sol para regular su temperatura. Es un cazador oportunista
+    que se alimenta de peces, aves y mam\xEDferos peque\xF1os. Durante la \xE9poca
+    de reproducci\xF3n, las hembras construyen nidos con vegetaci\xF3n y protegen
+    ferozmente a sus cr\xEDas. Aunque aparenta lentitud, puede moverse con gran rapidez
+    en distancias cortas."
   youtubeURL: https://youtu.be/cM6I8V--W_o
   cardImage: {fileID: 0}
 --- !u!1001 &297222175325724776

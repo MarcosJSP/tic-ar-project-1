@@ -124,10 +124,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Cigarra gigante \nnegra"
-  description: "La cigarra gigante negra es un insecto muy grande que puede medir
-    entre 4 y 6 cent\xEDmetros de largo.\nVive en zonas c\xE1lidas con muchos \xE1rboles.\nLos
-    machos cantan muy fuerte para atraer a las hembras.\nPasa varios a\xF1os bajo
-    tierra antes de salir, transformarse en adulta y vivir solo unas pocas semanas."
+  description: "Longitud: 4\u20136 cm (sin contar las alas)\n\nPeso: 2\u20134 g\n\nTipo:
+    Insecto ov\xEDparo\n\nAlimentaci\xF3n: Herb\xEDvoro (se alimenta de la savia
+    de los \xE1rboles)\n\nH\xE1bitat: Bosques templados y zonas rurales de Asia oriental,
+    especialmente en China, Corea y Jap\xF3n. Prefiere \xE1reas con abundante vegetaci\xF3n
+    y \xE1rboles de corteza delgada.\n\nDescripci\xF3n: Insecto de cuerpo negro brillante
+    y alas transparentes con reflejos oscuros. Es conocido por su canto fuerte y
+    continuo, producido por los machos durante el verano para atraer a las hembras.
+    Pasa la mayor parte de su vida bajo tierra como ninfa, aliment\xE1ndose de ra\xEDces,
+    y emerge solo unas semanas para reproducirse. Representa el calor del verano
+    y la fugacidad de la vida en muchas culturas asi\xE1ticas."
   youtubeURL: https://youtu.be/LCw8KjetcOAe
   cardImage: {fileID: 0}
 --- !u!1001 &516576522620147246

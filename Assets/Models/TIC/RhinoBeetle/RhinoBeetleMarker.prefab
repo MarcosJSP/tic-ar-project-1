@@ -124,11 +124,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Escarabajo \nrinoceronte"
-  description: "El escarabajo rinoceronte es un insecto grande y muy fuerte.\nPuede
-    medir entre 5 y 15 cent\xEDmetros y los machos tienen un cuerno en la cabeza
-    que usan para pelear.\nVive en bosques tropicales de Am\xE9rica, \xC1frica y
-    Asia.\nSe alimenta de frutas y savia de los \xE1rboles.\nAunque puede levantar
-    cosas mucho m\xE1s pesadas que \xE9l, solo vive unos pocos meses como adulto."
+  description: "Longitud: 3\u20136 cm\n\nPeso: 10\u201320 g\n\nTipo: Insecto ov\xEDparo\n\nAlimentaci\xF3n:
+    Herb\xEDvoro (se alimenta de materia vegetal en descomposici\xF3n, savia y frutas)\n\nH\xE1bitat:
+    Bosques tropicales, selvas y zonas templadas de Europa, \xC1frica, Asia y Am\xE9rica.
+    Suele habitar en troncos podridos, hojarasca o suelos ricos en materia org\xE1nica.\n\nDescripci\xF3n:
+    Insecto robusto de color marr\xF3n oscuro o negro, conocido por el cuerno que
+    posee en la cabeza, m\xE1s grande y curvado en los machos. Ese cuerno se usa
+    en combates por territorio o pareja. A pesar de su aspecto imponente, es inofensivo.
+    Puede levantar objetos hasta 100 veces su propio peso, lo que lo convierte en
+    uno de los animales m\xE1s fuertes del mundo en proporci\xF3n a su tama\xF1o."
   youtubeURL: https://youtu.be/vCoRYKU24dg
   cardImage: {fileID: 0}
 --- !u!1001 &109617011979000377
