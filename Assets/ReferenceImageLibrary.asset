@@ -18,36 +18,6 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5223146258565052768
-      m_GuidHigh: 2827652170347538336
-    m_SerializedTextureGuid:
-      m_GuidLow: 2612476383220820345
-      m_GuidHigh: 3589491270066043065
-    m_Size: {x: 0.1, y: 0.1}
-    m_SpecifySize: 1
-    m_Name: Marker-1(old)
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 5390237606175429435
-      m_GuidHigh: 33507598846325936
-    m_SerializedTextureGuid:
-      m_GuidLow: 2657516693822650333
-      m_GuidHigh: 3206987021101851306
-    m_Size: {x: 0.1, y: 0.1}
-    m_SpecifySize: 1
-    m_Name: Marker-2
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 5237941791875437865
-      m_GuidHigh: 4939840088016600764
-    m_SerializedTextureGuid:
-      m_GuidLow: 4919520473493634069
-      m_GuidHigh: 15496896950413967992
-    m_Size: {x: 0.1, y: 0.1}
-    m_SpecifySize: 1
-    m_Name: Marker-1
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
       m_GuidLow: 5644541216340343718
       m_GuidHigh: 2458439759339812267
     m_SerializedTextureGuid:
@@ -206,4 +176,94 @@ MonoBehaviour:
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
     m_Name: OctopusMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5300192013456501005
+      m_GuidHigh: 7429534153621749686
+    m_SerializedTextureGuid:
+      m_GuidLow: 343163938488258548
+      m_GuidHigh: 14340531512725451432
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: SnailMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5177881445989090890
+      m_GuidHigh: 17656153587598004376
+    m_SerializedTextureGuid:
+      m_GuidLow: 316512029664309587
+      m_GuidHigh: 14571676986096679241
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: RattlesnakeMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5029769449609393632
+      m_GuidHigh: 1060923505048738230
+    m_SerializedTextureGuid:
+      m_GuidLow: 15335595874221408923
+      m_GuidHigh: 7189730839362435688
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: KoiFishMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4617563365245193881
+      m_GuidHigh: 7811165469240506512
+    m_SerializedTextureGuid:
+      m_GuidLow: 6068871506651812645
+      m_GuidHigh: 17689528848083490490
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: WhiteSharkMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4746924002979438465
+      m_GuidHigh: 10496065065893601939
+    m_SerializedTextureGuid:
+      m_GuidLow: 14126809401329168493
+      m_GuidHigh: 12403836743344549258
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: RabbitMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4748907441153987377
+      m_GuidHigh: 14175040207073365683
+    m_SerializedTextureGuid:
+      m_GuidLow: 14128354695142436657
+      m_GuidHigh: 18420919305552209114
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: RaccoonMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4925399739354954095
+      m_GuidHigh: 6571509392460000178
+    m_SerializedTextureGuid:
+      m_GuidLow: 1476135395961886000
+      m_GuidHigh: 16106122665251133114
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: MountainGoatMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4887415369078022355
+      m_GuidHigh: 10762363411820007062
+    m_SerializedTextureGuid:
+      m_GuidLow: 15308964253231220392
+      m_GuidHigh: 16919973661214252280
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: AmericanBlackBearMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4794195811261440283
+      m_GuidHigh: 10716333296384905893
+    m_SerializedTextureGuid:
+      m_GuidLow: 17649842373868590060
+      m_GuidHigh: 1417930908667319883
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: MonarchButterflyMarker
     m_Texture: {fileID: 0}

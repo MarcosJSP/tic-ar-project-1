@@ -8,6 +8,7 @@ AndroidBuilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
 UserSettings/
+.utmp/
 
 # Visual Studio / Rider
 .vscode/

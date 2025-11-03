@@ -123,11 +123,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 601c615a1357e4a458188ba85a176f20, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: "Escarabajo \nrinoceronte JPN"
-  description: "Es un insecto con un caparaz\xF3n de color met\xE1lico (verde/bronce)
-    que vuela y se alimenta de hojas y flores.\nPuede causar mucho da\xF1o a jardines
-    porque devora muchas hojas en poco tiempo\n"
-  youtubeURL: https://youtube.com/shorts/NI8hR_PnVs4?si=MtWLVfaHizyMjC6r
+  title: "Escarabajo \nrinoceronte"
+  description: "El escarabajo rinoceronte es un insecto grande y muy fuerte.\nPuede
+    medir entre 5 y 15 cent\xEDmetros y los machos tienen un cuerno en la cabeza
+    que usan para pelear.\nVive en bosques tropicales de Am\xE9rica, \xC1frica y
+    Asia.\nSe alimenta de frutas y savia de los \xE1rboles.\nAunque puede levantar
+    cosas mucho m\xE1s pesadas que \xE9l, solo vive unos pocos meses como adulto."
+  youtubeURL: https://youtu.be/vCoRYKU24dg
   cardImage: {fileID: 0}
 --- !u!1001 &109617011979000377
 PrefabInstance:
@@ -229,7 +231,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3858886845378028153, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
       propertyPath: m_text
-      value: "Escarabajo rinoceronte \njapon\xE9s"
+      value: "Escarabajo \nrinoceronte JPN"
       objectReference: {fileID: 0}
     - target: {fileID: 3858886845378028153, guid: 790a52ac1c4c64fb7b1d9b7e8a7329d6, type: 3}
       propertyPath: m_fontSize

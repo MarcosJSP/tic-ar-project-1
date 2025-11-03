@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mountain Goat (Demo Free Download)
+* source:	https://sketchfab.com/3d-models/mountain-goat-demo-free-download-8852133c070f4b3b8f243fbf6075bf7f
+* author:	WildMesh 3D (https://sketchfab.com/WildMesh_3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mountain Goat (Demo Free Download)" (https://sketchfab.com/3d-models/mountain-goat-demo-free-download-8852133c070f4b3b8f243fbf6075bf7f) by WildMesh 3D (https://sketchfab.com/WildMesh_3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -124,11 +124,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   title: "Cigarra gigante \nnegra"
-  description: "Las alpacas son mam\xEDferos herb\xEDvoros. Son animales muy sociales,
-    pero te pueden escupir si se llegan a sentir amenazadas. Como dato curioso, las
-    alpacas tienen 3 compartimentos en el est\xF3mago para digerir bien la celulosa
-    y aprovechar al m\xE1ximo los nutrientes."
-  youtubeURL: https://www.youtube.com/watch?v=WLw1gUBjHYQ
+  description: "La cigarra gigante negra es un insecto muy grande que puede medir
+    entre 4 y 6 cent\xEDmetros de largo.\nVive en zonas c\xE1lidas con muchos \xE1rboles.\nLos
+    machos cantan muy fuerte para atraer a las hembras.\nPasa varios a\xF1os bajo
+    tierra antes de salir, transformarse en adulta y vivir solo unas pocas semanas."
+  youtubeURL: https://youtu.be/LCw8KjetcOAe
   cardImage: {fileID: 0}
 --- !u!1001 &516576522620147246
 PrefabInstance:
